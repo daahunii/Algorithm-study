@@ -9,3 +9,11 @@
 
 ## 연결리스트의 기본구성
 
+<img src="https://media.vlpt.us/images/sangh00n/post/bfa73611-96a7-450a-9974-4b40fb70c2fd/linkedLIst.png">
+
+-> 노드는 보통 데이터를 저장하는 부분과, 다음 노드를 가르키는 부분으로 구성됩니다. 연결리스트는 처음과 끝을 가르키는 포인터들을 이용해 리스트를 관리합니다. 끝 노드는 null값을 가지고 있습니다.<br/>
+<br/>
+## 연결리스트의 종류
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fba3zRZ%2Fbtq2Mz8CDoL%2FwNmI6SzXTZhPko7X7zBALK%2Fimg.png">
+
