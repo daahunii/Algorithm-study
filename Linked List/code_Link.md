@@ -122,6 +122,6 @@ int main(){
 
 ```
 
-## 출력 결과
+## Result
 <img width="733" alt="스크린샷 2022-02-22 오후 11 27 37" src="https://user-images.githubusercontent.com/86994067/155152388-d2bd0a66-1a89-4043-a130-0e907fdad222.png">
 
